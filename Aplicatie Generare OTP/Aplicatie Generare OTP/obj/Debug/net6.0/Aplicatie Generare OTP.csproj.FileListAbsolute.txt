@@ -1,0 +1,15 @@
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\bin\Debug\net6.0\Aplicatie Generare OTP.exe
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\bin\Debug\net6.0\Aplicatie Generare OTP.deps.json
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\bin\Debug\net6.0\Aplicatie Generare OTP.runtimeconfig.json
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\bin\Debug\net6.0\Aplicatie Generare OTP.dll
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\bin\Debug\net6.0\Aplicatie Generare OTP.pdb
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\obj\Debug\net6.0\Aplicatie Generare OTP.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\obj\Debug\net6.0\Aplicatie Generare OTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\obj\Debug\net6.0\Aplicatie Generare OTP.AssemblyInfoInputs.cache
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\obj\Debug\net6.0\Aplicatie Generare OTP.AssemblyInfo.cs
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\obj\Debug\net6.0\Aplicatie Generare OTP.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\obj\Debug\net6.0\Aplicatie Generare OTP.dll
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\obj\Debug\net6.0\refint\Aplicatie Generare OTP.dll
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\obj\Debug\net6.0\Aplicatie Generare OTP.pdb
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\obj\Debug\net6.0\Aplicatie Generare OTP.genruntimeconfig.cache
+C:\Users\Alex\OneDrive\Pictures\Aplicatie GenerareOTP\Aplicatie Generare OTP\Aplicatie Generare OTP\obj\Debug\net6.0\ref\Aplicatie Generare OTP.dll
